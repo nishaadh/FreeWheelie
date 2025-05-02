@@ -6,17 +6,23 @@ const UI_images = [
     "images/progress/UI & Controls/LCD_01.jpeg",
     "images/progress/UI & Controls/LCD_02.jpeg",
     "images/progress/UI & Controls/LCD_03.jpeg",
-    "images/progress/UI & Controls/controls_progress.gif"
+    "images/progress/UI & Controls/controls_progress.gif",
+    "images/progress/UI & Controls/joystick.jpg"
 ];
 
 const Arm_images = [
-    "images/documentation.jpg",
-    "images/progress/Adjustable Arm/arm_progress.gif"
+    "images/progress/Adjustable Arm/setup.jpeg",
+    "images/progress/Adjustable Arm/arm_progress.gif",
+    "images/progress/Adjustable Arm/ball_screw_set.png",
+    "images/progress/Adjustable Arm/stepper.png"
 ];
 
 const Wheel_images = [
-    "images/documentation.jpg",
-    "images/progress/Electronic Wheel/wheel_progress.gif"
+    "images/progress/Electronic Wheel/Setup.jpg",
+    "images/progress/Electronic Wheel/wheel_progress.gif",
+    "images/progress/Electronic Wheel/Stepper.png",
+    "images/progress/Electronic Wheel/Hub_Motor.png",
+    "images/progress/Electronic Wheel/MotorController.png"
 ];
 
 function changeImageArm() {
