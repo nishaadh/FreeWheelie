@@ -2687,8 +2687,8 @@ input, select, textarea {
 	}
 
 	.subsystem_image img {
-		width: 500px; 
-		height: 600px;  
+		width: 400px; 
+		height: 500px;  
 		object-fit: cover; 
 		background-color: #ffffff; 
 	}
